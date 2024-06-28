@@ -1,14 +1,4 @@
 # 55 Common Docker Interview Questions
-
-<div>
-<p align="center">
-<a href="https://devinterview.io/questions/software-architecture-and-system-design/">
-<img src="https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/github-blog-img%2Fsoftware-architecture-and-system-design-github-img.jpg?alt=media&token=521fd2a9-0d56-49c0-a723-9bd6ca081893" alt="software-architecture-and-system-design" width="100%">
-</a>
-</p>
-
-#### You can also find all 55 answers here 👉 [Devinterview.io - Docker](https://devinterview.io/questions/software-architecture-and-system-design/docker-interview-questions)
-
 <br>
 
 ## 1. What is _Docker_, and how is it different from _virtual machines_?
