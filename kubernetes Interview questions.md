@@ -2,12 +2,6 @@
 
 # ................... 288 Kubernetes Interview Questions  ....................
 
-## By  Mamun Rashid :: https://www.linkedin.com/in/mamunrashid/ 
-
-### Last Updated: 2023.02.05
-
-##
-
 #### 1. So, what have you done with Kubernetes? This question comes up all the time!
 
 #####   Answer: 
